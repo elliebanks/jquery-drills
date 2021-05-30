@@ -81,31 +81,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 });
 
-
-
-
-
-
-
-
-
-
-
-
-/* ANOTHER WAY TO DO THIS STEP:
+/* ANOTHER WAY TO DO THE ALERT STEP:
 function notify() {
     alert("clicked");
 }
 $('#btnSubmit').on('click', notify); */
-
-
-
-    //STEP 8: create div element and append it to the body
-
-
-
-
-
-
-
-
